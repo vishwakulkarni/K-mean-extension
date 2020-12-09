@@ -1,0 +1,12 @@
+Column Name,Description
+Date,Date EV charging station ports were used.
+No Of Sessions,Number of times the charging ports were used on the listed date.
+Accumulated Sessions,The sum of all times charging ports were used from the beginning of 2018 up to the most recent listed date.
+Unique Drivers,Number of unique individual drivers using the charging station on the particular listed date.
+No. of Ports,"The total number of city-owned EV charging ports for the particular listed date. Many city stations have two ports that let drivers charge two cars at once, so this data set monitors availability of total ports"
+Energy (kWh),The amount of energy that has been dispensed by the charging stations on the particular listed date. Energy is measured in kilowatt hours (kWh)
+Accumulated Energy (MWh),The sum of all energy that has been dispensed by the charging stations since the beginning of 2018 up to the listed date. Energy is measured in megawatt hours (MWh)
+GHG savings (kg),Estimated emissions avoided based on the energy dispensed and gasoline saved by the charging stations on the listed date. These figures are collected in kilograms (kg) of carbon dioxide equivalent (CO2e)
+Accumulated GHG (kg),The sum of all GHG savings frpm the beginning of 2018 up to the listed date. Figures are collected in kilograms (kg) of carbon dioxide equivalent (CO2e)
+Charge time (minutes),The number of minutes any vehicle was plugged in and actively charging on the particular listed date. This does not capture time a vehicle was plugged in and no longer charging. 
+Gasoline Savings (gallons),Estimated gallons of gasoline saved based on charging time on the paticular listed date.
